@@ -25,7 +25,7 @@
 
 ​	在本地克隆该项目
 
-```git clone  xxx.git ```
+```https://github.com/lboscu/dwt.git ```
 
 ​	或者下载zip，然后解压。
 
